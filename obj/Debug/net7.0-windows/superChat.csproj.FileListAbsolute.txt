@@ -20,3 +20,14 @@ C:\Users\admin\3D Objects\с# tutorial\superChat\obj\Debug\net7.0-windows\refint
 C:\Users\admin\3D Objects\с# tutorial\superChat\obj\Debug\net7.0-windows\superChat.pdb
 C:\Users\admin\3D Objects\с# tutorial\superChat\obj\Debug\net7.0-windows\superChat.genruntimeconfig.cache
 C:\Users\admin\3D Objects\с# tutorial\superChat\obj\Debug\net7.0-windows\ref\superChat.dll
+C:\Users\admin\3D Objects\с# tutorial\superChat\obj\Debug\net7.0-windows\Themes\ContactCard.baml
+C:\Users\admin\3D Objects\с# tutorial\superChat\obj\Debug\net7.0-windows\App.baml
+C:\Users\admin\3D Objects\с# tutorial\superChat\bin\Debug\net7.0-windows\Icons\camera.png
+C:\Users\admin\3D Objects\с# tutorial\superChat\bin\Debug\net7.0-windows\Icons\phone.png
+C:\Users\admin\3D Objects\с# tutorial\superChat\bin\Debug\net7.0-windows\Icons\plus.png
+C:\Users\admin\3D Objects\с# tutorial\superChat\bin\Debug\net7.0-windows\Icons\send.png
+C:\Users\admin\3D Objects\с# tutorial\superChat\obj\Debug\net7.0-windows\Themes\ChatItem.baml
+C:\Users\admin\3D Objects\с# tutorial\superChat\obj\Debug\net7.0-windows\Themes\MessageBox.baml
+C:\Users\admin\3D Objects\с# tutorial\superChat\obj\Debug\net7.0-windows\superChat_Content.g.cs
+C:\Users\admin\3D Objects\с# tutorial\superChat\obj\Debug\net7.0-windows\Themes\StylishScrollbar.baml
+C:\Users\admin\3D Objects\с# tutorial\superChat\obj\Debug\net7.0-windows\Themes\Connect.baml

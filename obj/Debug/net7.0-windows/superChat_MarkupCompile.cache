@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 C:\Users\admin\3D Objects\с# tutorial\superChat\App.xaml
-11407045341
-
-4-659021563
+6-1828732271
+4-370734179
+91995437733
 198-2048575587
-MainWindow.xaml;
+MainWindow.xaml;Themes\ChatItem.xaml;Themes\Connect.xaml;Themes\ContactCard.xaml;Themes\MessageBox.xaml;Themes\StylishScrollbar.xaml;
 
 False
 
